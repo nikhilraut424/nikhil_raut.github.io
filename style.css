@@ -387,6 +387,9 @@ footer {
   align-items: center;
   justify-content: center;
 }
+#element1{
+  font-size: 2rem;
+ } 
 
 footer p {
   font-size: 1rem;
@@ -469,7 +472,7 @@ margin-bottom: 1.5rem;
   .left{
     display: none;
   }
-  .name input{
+ .name input{
     width: 70%;
     height: 3rem;
     }
@@ -480,7 +483,7 @@ margin-bottom: 1.5rem;
     .area text-area{
       width: 70%;
       height: 10rem;
-    }
+    } 
 
 }
 @media screen and (max-width:1104px) {
@@ -511,13 +514,46 @@ margin-bottom: 1.5rem;
  #element1{
   font-size: 1.5rem;
  } 
+ .name input{
+  width: 60%;
+  height: 2.5rem;
+  }
+  .mail input{
+    width: 60%;
+    height: 2.5rem;
+  }
+  .area text-area{
+    width: 60%;
+    height: 8rem;
+  }
+  .icon i{
+    font-size: 2rem;
+  }
+  .left-contact{
+    width: 40%;
+    margin-right: 4rem;
+  }
+  .left-contact a,i{
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  #btn {
+    height: 3.45rem;
+    width: 8rem;
+    font-size: 1.25rem;
+   
+  }
+  h1{
+    font-size: 2rem;
+  }
+  
  
 }
 
-.right-sec img{
+/* .right-sec img{
   width: 2rem;
   display: none;
-}
+} */
 
 
   /* button */
