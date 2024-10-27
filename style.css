@@ -29,7 +29,7 @@ nav {
   /* width: 100%; */
 }
 
-nav::before {
+/* nav::before {
   content: "";
   position: absolute;
   top: 0;
@@ -41,11 +41,11 @@ nav::before {
       rgba(255, 255, 255, 0.4),
       transparent);
   transition: 0.5s;
-}
+} */
 
-nav:hover::before {
+/* nav:hover::before {
   left: 100%;
-}
+} */
 
 nav ul {
   display: flex;
