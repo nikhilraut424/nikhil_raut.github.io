@@ -501,11 +501,27 @@ margin-bottom: 1.5rem;
   }
 
 }
+@media screen and (max-width:1027px) {
 
+.skill-1{
+  margin-right: 4rem;
+  margin-left: 3rem;
+}
+
+ #element1{
+  font-size: 1.5rem;
+ } 
+ 
+}
+
+.right-sec img{
+  width: 2rem;
+  display: none;
+}
 
 
   /* button */
-  .btn {
+.btn {
     margin-left: 1.5rem;
     border: none;
     outline: none;
