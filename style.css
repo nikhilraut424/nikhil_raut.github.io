@@ -881,7 +881,7 @@ footer p{
   
 }
 nav ul li a{
-  font-size: 1rem;
+  font-size: 0.75rem;
 }
 .name input{
   width: 90%;
@@ -954,6 +954,9 @@ height: 5rem
  .right-sec img{
   width: 10rem;
   height: 8rem;
+}
+nav ul li a{
+  font-size: 0.65rem;
 }
 }
 @media screen and (max-width:324px) {
