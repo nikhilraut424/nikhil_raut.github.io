@@ -3,7 +3,7 @@ body {
   font-family: "Poppins", serif;
   background-color: black;
   background-color: #020205;
-  width: 85vw;
+
 }
 
 * {
@@ -443,6 +443,9 @@ footer p {
   width: 100%;
 }
 @media screen and (max-width: 1635px) {
+  body{
+      width: 90vw;
+  }
   .btn {
     margin-left: 5rem;
   }
