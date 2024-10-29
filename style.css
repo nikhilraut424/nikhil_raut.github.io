@@ -443,9 +443,7 @@ footer p {
   width: 100%;
 }
 @media screen and (max-width: 1635px) {
-  body{
-      width: 95vw;
-  }
+
   .btn {
     margin-left: 5rem;
   }
